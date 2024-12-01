@@ -1,6 +1,7 @@
 # Youtube Clone
 
-![Screenshot 2024-12-01 220909](https://github.com/user-attachments/assets/b6416da7-481f-49b5-abed-6cb26854f79f)
+![image](https://github.com/user-attachments/assets/2256e4a7-5ad1-4528-8d2d-0aab08b12a27)
+
 
 Links:
 
